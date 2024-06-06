@@ -1,0 +1,11 @@
+.GrandPa div,
+.GrandPa {
+     border: 2px solid darkgoldenrod;
+     margin: 10px;
+     padding: 20px;
+     border-radius: 20px
+}
+
+.flex {
+     display: flex;
+}

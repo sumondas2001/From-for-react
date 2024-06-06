@@ -1,4 +1,5 @@
 import './App.css'
+import GrandPa from './components/GrandPa/GrandPa'
 import HookFrom from './components/HookFrom/HookFrom'
 import RefFrom from './components/RefFrom/RefFrom'
 // import SimpleFrom from './components/SimpleFrom/SimpleFrom'
@@ -14,7 +15,9 @@ function App() {
       {/* <SimpleFrom></SimpleFrom> */}
       {/* <StaetFullFrom></StaetFullFrom> */}
       {/* <RefFrom></RefFrom> */}
-      <HookFrom></HookFrom>
+      {/* <HookFrom></HookFrom>
+       */}
+      <GrandPa></GrandPa>
     </>
   )
 }
